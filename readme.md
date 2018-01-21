@@ -27,5 +27,7 @@ MYSQL_PORT=3306
 MYSQL_ROOT_PASSWORD=root
 MYSQL_ENTRYPOINT_INITDB=./mysql/docker-entrypoint-initdb.d
 
-6 - Open your browser and visit localhost: http://192.168.99.100.
+6. Run php artisian migrate
+
+7 - Open your browser and visit localhost: http://192.168.99.100.
 
