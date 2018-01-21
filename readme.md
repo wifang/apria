@@ -27,7 +27,9 @@ MYSQL_PORT=3306
 MYSQL_ROOT_PASSWORD=root
 MYSQL_ENTRYPOINT_INITDB=./mysql/docker-entrypoint-initdb.d
 
-6. Run php artisian migrate
+6. create database name alaravel in MySQL
 
-7 - Open your browser and visit localhost: http://192.168.99.100.
+7. Run php artisian migrate
+
+8 - Open your browser and visit localhost: http://192.168.99.100.
 
